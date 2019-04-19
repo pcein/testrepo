@@ -1,4 +1,4 @@
 {
-    "swupdateimg_url": "http://pramode.net",
-    "dockerimg_url": "http://pramode.in"
+    "swupdateimg_url": "http://mirror.math.princeton.edu/pub/ubuntu-iso/bionic/ubuntu-18.04.2-live-server-amd64.iso",
+    "dockerimg_url": "http://mirror.math.princeton.edu/pub/ubuntu-iso/bionic/ubuntu-18.04.2-live-server-amd64.iso"
 }
